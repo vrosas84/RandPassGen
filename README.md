@@ -1,6 +1,7 @@
 # Random Password Generator
 
-## Vince Rosas
+### Author: Vince Rosas
+### Date: Dec 2022
 
 I created this app to start learning python.
 This app runs in a terminal window and all input and output is done through that
